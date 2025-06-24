@@ -244,7 +244,7 @@ while True:
 
 ### Tanuja Suryawanshi
 
-🔗 [GitHub Profile](https://github.com/TanujaSuryawanshi) | 💼 [LinkedIn](https://linkedin.com/in/tanuja-suryawanshi)
+🔗 [GitHub Profile](https://github.com/TanujaSuryawanshi) | 💼 [LinkedIn](https://www.linkedin.com/in/tanuja-suryawanshi-222b4b270/)
 
 _"Making the impossible possible, one gesture at a time!"_ ✨
 
